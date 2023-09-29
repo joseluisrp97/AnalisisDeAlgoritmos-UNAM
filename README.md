@@ -10,7 +10,4 @@ Cada directorio corresponde a una práctica o proyecto. En cada uno se aborda un
 ## 💡 Contribuciones
 Aunque este repositorio es principalmente para propósitos académicos, cualquier feedback o contribución es bienvenida. Si encuentras alguna mejora potencial o quieres discutir algún tema, ¡no dudes en abrir un issue!
 
-## ⚖️ Licencia
-El contenido de este repositorio está bajo una licencia [MIT](LICENSE).
-
 ---
